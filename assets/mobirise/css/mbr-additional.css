@@ -7677,13 +7677,15 @@ body {
   color: #00ffa9 !important;
 }
 .cid-qUllLswul4 {
+  padding-top: 135px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr-1350x1080.jpg");
 }
 .cid-qUllLswul4 .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
-  background: linear-gradient(#232323, #232323);
+  background: linear-gradient(#00ffa9, #232323);
   border: none;
 }
 .cid-qUllLswul4 .input-group-btn {
