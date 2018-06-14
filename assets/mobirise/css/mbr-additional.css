@@ -2589,7 +2589,17 @@ body {
 .cid-qUD5vcQGr2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-19-1620x1080.jpg");
+  background-color: #073b4c;
+}
+.cid-qUD5vcQGr2 H2 {
+  text-align: center;
+}
+.cid-qUD5vcQGr2 H3 {
+  text-align: center;
+}
+.cid-qUD5vcQGr2 .mbr-text,
+.cid-qUD5vcQGr2 .mbr-section-btn {
+  text-align: center;
 }
 .cid-qU3HBgv8a6 {
   padding-top: 60px;
@@ -5993,43 +6003,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-qT1A3hHwAk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qT1A3hHwAk h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qT1A3hHwAk p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-qT1A3hHwAk .card-img {
-  text-align: left;
-  -webkit-flex: 1 0 auto;
-  flex: 1 0 auto;
-  width: auto;
-}
-.cid-qT1A3hHwAk .card-img span {
-  font-size: 72px;
-  color: #ff3366;
-}
-.cid-qT1A3hHwAk .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-qT1A3hHwAk .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-  .cid-qT1A3hHwAk .card-box {
-    padding-left: 0;
-  }
-}
 .cid-qRYUk1xbzs {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6069,6 +6042,71 @@ body {
 .cid-qRYUk1xbzs .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-qT1A3hHwAk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qT1A3hHwAk h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qT1A3hHwAk p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-qT1A3hHwAk .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-qT1A3hHwAk .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-qT1A3hHwAk .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-qT1A3hHwAk .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-qT1A3hHwAk .card-box {
+    padding-left: 0;
+  }
+}
+.cid-qUTDcMefsn {
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qUTDcMefsn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qUTDa7NeIL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qUTDa7NeIL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qUTDa7NeIL p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qUTDa7NeIL .card-box {
+  padding-top: 2rem;
+}
+.cid-qUTDa7NeIL .card-wrapper {
+  height: 100%;
 }
 .cid-qRYUoy9IdJ {
   padding-top: 45px;
@@ -7306,12 +7344,12 @@ body {
   }
 }
 .cid-qUlmdtSmru H1 {
-  color: #ffffff;
+  color: #00ecff;
   text-align: left;
 }
 .cid-qUlmdtSmru .mbr-text,
 .cid-qUlmdtSmru .mbr-section-btn {
-  color: #149dcc;
+  color: #ffffff;
   text-align: left;
 }
 .cid-qUlmduAhzy {
@@ -7320,7 +7358,7 @@ body {
   background-color: #232323;
 }
 .cid-qUlmduAhzy .mbr-section-subtitle {
-  color: #00ffa9;
+  color: #00ecff;
 }
 .cid-qUlmduAhzy H2 {
   color: #ffffff;
@@ -7361,7 +7399,7 @@ body {
   color: #ffffff;
 }
 .cid-qUr2BIkzB2 SPAN {
-  color: #00ffa9;
+  color: #00ecff;
 }
 .cid-qUlmdvVkYS {
   padding-top: 0px;
@@ -7841,7 +7879,7 @@ body {
   color: #ffffff;
 }
 .cid-qUqWyzNf82 SPAN {
-  color: #00ffa9;
+  color: #00ecff;
 }
 .cid-qUllLugnB0 {
   padding-top: 0px;
@@ -8254,7 +8292,7 @@ body {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
-  background: linear-gradient(#00ffa9, #00ffa9);
+  background: linear-gradient(#c4bc3b, #f7ed4a);
   border: none;
 }
 .cid-qUlhJ5zaS2 .input-group-btn {
@@ -8266,12 +8304,12 @@ body {
   }
 }
 .cid-qUlhJ5zaS2 H1 {
-  color: #ffffff;
+  color: #f7ed4a;
   text-align: left;
 }
 .cid-qUlhJ5zaS2 .mbr-text,
 .cid-qUlhJ5zaS2 .mbr-section-btn {
-  color: #00ffa9;
+  color: #ffffff;
   text-align: left;
 }
 .cid-qUlhMDds2c {
@@ -8280,7 +8318,7 @@ body {
   background-color: #232323;
 }
 .cid-qUlhMDds2c .mbr-section-subtitle {
-  color: #00ffa9;
+  color: #f7ed4a;
 }
 .cid-qUlhMDds2c H2 {
   color: #ffffff;
@@ -8321,7 +8359,7 @@ body {
   color: #ffffff;
 }
 .cid-qUqyPvK6sW SPAN {
-  color: #00ffa9;
+  color: #00ecff;
 }
 .cid-qUlljkWUNf {
   padding-top: 0px;
