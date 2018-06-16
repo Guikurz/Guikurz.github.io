@@ -1864,13 +1864,13 @@ body {
 .cid-qRZn87cVhZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qRZn87cVhZ .title {
   margin-bottom: 2rem;
 }
 .cid-qRZn87cVhZ .mbr-section-subtitle {
-  color: #767676;
+  color: #00ffa9;
 }
 .cid-qRZn87cVhZ a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1887,6 +1887,12 @@ body {
 .cid-qRZn87cVhZ .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qRZn87cVhZ H2 {
+  color: #ffffff;
+}
+.cid-qRZn87cVhZ LABEL {
+  color: #ffffff;
 }
 .cid-qRZncVQ4RR {
   padding-top: 90px;
