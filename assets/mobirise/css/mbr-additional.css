@@ -1373,6 +1373,12 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qVsI68TRQ9 {
+  background-image: url("../../../assets/images/banner-1-1900x1000.jpg");
+}
+.cid-qVsI68TRQ9 H1 {
+  color: #00ffa9;
+}
 .cid-qRYS8D2V7A .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1754,12 +1760,6 @@ body {
 .cid-qRYS8D2V7A .dropdown-item:hover {
   color: #00ffa9 !important;
 }
-.cid-qRZmWzeZcM {
-  background-image: url("../../../assets/images/banner-1-1900x1000.jpg");
-}
-.cid-qRZmWzeZcM H1 {
-  color: #00ffa9;
-}
 .cid-qRZmZpC5LV {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1844,6 +1844,7 @@ body {
 }
 .cid-qRZn2xJPsK .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qRZn2xJPsK .card-wrapper {
   height: 100%;
@@ -1860,6 +1861,9 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qRZn2xJPsK .card-title {
+  text-align: center;
 }
 .cid-qRZn87cVhZ {
   padding-top: 90px;
@@ -1952,6 +1956,9 @@ body {
     width: 100% !important;
     height: auto !important;
   }
+}
+#instagram-feed-block-26 .inst__title {
+  color: #ffffff;
 }
 .cid-qSb4Z1lljv {
   padding-top: 45px;
@@ -5336,7 +5343,7 @@ body {
 .cid-qV0cAF9aUw {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #073b4c;
 }
 .cid-qV0cAF9aUw .card-box {
   padding: 0 2rem;
@@ -5939,75 +5946,10 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qT1A3hHwAk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qT1A3hHwAk h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qT1A3hHwAk p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-qT1A3hHwAk .card-img {
-  text-align: left;
-  -webkit-flex: 1 0 auto;
-  flex: 1 0 auto;
-  width: auto;
-}
-.cid-qT1A3hHwAk .card-img span {
-  font-size: 72px;
-  color: #ff3366;
-}
-.cid-qT1A3hHwAk .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-qT1A3hHwAk .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-  .cid-qT1A3hHwAk .card-box {
-    padding-left: 0;
-  }
-}
-.cid-qUTDcMefsn {
-  padding-top: 75px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qUTDcMefsn .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qUTDa7NeIL {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qUTDa7NeIL h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qUTDa7NeIL p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qUTDa7NeIL .card-box {
-  padding-top: 2rem;
-}
-.cid-qUTDa7NeIL .card-wrapper {
-  height: 100%;
-}
 .cid-qRYUoy9IdJ {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #073b4c;
 }
 .cid-qRYUoy9IdJ .mbr-section-subtitle {
   color: #cccccc;
@@ -6103,6 +6045,77 @@ body {
 }
 .cid-qRYUoy9IdJ H2 {
   color: #ffffff;
+}
+.cid-qT1A3hHwAk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qT1A3hHwAk h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qT1A3hHwAk p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-qT1A3hHwAk .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-qT1A3hHwAk .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-qT1A3hHwAk .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-qT1A3hHwAk .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-qT1A3hHwAk .card-box {
+    padding-left: 0;
+  }
+}
+.cid-qUTDcMefsn {
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #073b4c;
+}
+.cid-qUTDcMefsn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qUTDcMefsn H2 {
+  color: #ffffff;
+}
+.cid-qUTDcMefsn B {
+  color: #ffffff;
+}
+.cid-qUTDa7NeIL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #073b4c;
+}
+.cid-qUTDa7NeIL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qUTDa7NeIL p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qUTDa7NeIL .card-box {
+  padding-top: 2rem;
+}
+.cid-qUTDa7NeIL .card-wrapper {
+  height: 100%;
 }
 .cid-qU3BL7q51a {
   padding-top: 60px;
