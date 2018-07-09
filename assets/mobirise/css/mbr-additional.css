@@ -2367,7 +2367,7 @@ body {
 }
 .cid-qRYS8D2V7A .nav-link:hover,
 .cid-qRYS8D2V7A .dropdown-item:hover {
-  color: #0f7699 !important;
+  color: #13e2f2 !important;
 }
 .cid-qRYUSqyov7 {
   padding-top: 120px;
@@ -3035,7 +3035,7 @@ body {
 .cid-qUO3kL04eq {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #073b4c;
+  background-image: url("../../../assets/images/mbr-1-1617x1080.jpg");
 }
 .cid-qUO3kL04eq .icons-media-container {
   display: flex;
@@ -3162,24 +3162,6 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qUO2FqOrua {
-  padding-top: 105px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/fundo-banner-1900x751.jpg");
-}
-.cid-qUO2FqOrua .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qUO2FqOrua .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qUO2FqOrua .content-container {
-    padding-right: 5rem;
-  }
-}
 .cid-qU3WDfnYM4 {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -3273,7 +3255,7 @@ body {
 .cid-qUO2YikGz1 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #073b4c, #f7ed4a);
+  background: linear-gradient(45deg, #d41515, #ffffff);
 }
 @media (min-width: 992px) {
   .cid-qUO2YikGz1 .mbr-figure {
@@ -3283,6 +3265,15 @@ body {
 @media (max-width: 991px) {
   .cid-qUO2YikGz1 .mbr-figure {
     padding-top: 3rem;
+  }
+}
+.cid-qUO2YikGz1 .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qUO2YikGz1 .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
   }
 }
 .cid-qUO2YikGz1 .mbr-section-title {
@@ -5432,7 +5423,7 @@ body {
 .cid-qRYRLTjYNd {
   padding-top: 135px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/airport-2000x957.jpg");
+  background-image: url("../../../assets/images/sdfsdff-1-1600x1200.jpg");
 }
 .cid-qRYRLTjYNd H3 {
   text-align: center;
