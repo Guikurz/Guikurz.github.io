@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IPI",
-    "currentPage": "index.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -95,7 +95,7 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "on"
   },
   "pages": {
     "metanoia.html": {
