@@ -685,6 +685,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1175,7 +1176,7 @@ pre {
     display: none;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   .navbar-toggleable-md .navbar-nav .dropdown-menu {
     position: static;
     float: none;
@@ -1185,7 +1186,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
   .navbar-toggleable-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1382,6 +1383,37 @@ body {
   .card-wrapper {
     flex: auto!important;
   }
+}
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #ffffff;
+  color: #000000;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow,
+.jq-number__spin.minus:after,
+.jq-number__spin.plus:after {
+  transition: 0.4s;
+  border-top-color: currentColor;
+  border-bottom-color: currentColor;
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow,
+.jq-number__spin.minus:hover:after,
+.jq-number__spin.plus:hover:after {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  box-shadow: none!important;
+}
+.xdsoft_datetimepicker .xdsoft_calendar td:hover,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
+  color: #ffffff !important;
+  background: #810021 !important;
+  box-shadow: none !important;
 }
 .cid-qVsI68TRQ9 {
   background-image: url("../../../assets/images/banner-1-1900x1000.jpg");
@@ -2574,6 +2606,46 @@ body {
 }
 .cid-qUldH5oLgz .mbr-text B {
   color: #ffffff;
+}
+.cid-rAdEYUGh25 {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rAdEYUGh25 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rAdEYUGh25 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rAdEYUGh25 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rAdEYUGh25 .team-item .item-image img {
+  width: 100%;
+}
+.cid-rAdEYUGh25 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rAdEYUGh25 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rAdEYUGh25 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rAdEYUGh25 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rAdEYUGh25 .team-item .item-caption {
+  background: #efefef;
 }
 .cid-qSgELzxc1o {
   padding-top: 90px;
@@ -9743,7 +9815,7 @@ body {
 .cid-r4wAdRPuMp {
   padding-top: 135px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background5.jpg");
+  background-color: #886586;
 }
 .cid-r4wzWNf3UV {
   padding-top: 0px;
